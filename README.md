@@ -7,3 +7,7 @@ Essentially this is Yet Another Glove Build (YAGB) which will allow the user to 
 # inspired by:  
 [Instructables Flex Sensor Glove](https://www.instructables.com/id/Flex-Sensor-Glove/)  
 [Instructables Arduino Flex Sensor Glove](https://www.instructables.com/id/Arduino-Flex-Sensor-Glove/)
+
+# materials arriving
+2 sheets of velostat!
+
