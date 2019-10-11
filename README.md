@@ -11,3 +11,5 @@ Essentially this is Yet Another Glove Build (YAGB) which will allow the user to 
 # materials arriving
 2 sheets of velostat!
 
+# materials arrived!  
+Yes!  
