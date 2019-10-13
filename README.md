@@ -12,4 +12,7 @@ Essentially this is Yet Another Glove Build (YAGB) which will allow the user to 
 2 sheets of velostat!
 
 # materials arrived!  
-Yes!  
+Yes!
+
+# located wearable material
+![wearable materials](/images/wearableGear.jpg)
