@@ -4,6 +4,11 @@
 	A flex-sensor driven glove to allow for bluetooth controls over a
 	presentation system and built-in laser pointer and extra fun!
 
+	Flex sensor on index finger - when extended activates laser pointer
+	Flex sensor on the thumb - activates the happy face
+	Button on the index finger is forward page
+	Button on the index finger is backward page
+	
 	The circuit:
 	-
 	-
@@ -18,30 +23,26 @@
 */
 
 
-#define FLEXSENSORPIN2 A2 
-#define FLEXSENSORPIN3 A3 
-#define FLEXSENSORPIN4 A4 
+#define FLEXINDEX A2 
+#define FLEXTHUMB A3 
+#define BUTTON_FORWARD <TBD>
+#define BUTTON_BACKWARD <TBD>
 
 //defined variables for each sensor according to finger
-float middleReading;
 float indexReading;
 float thumbReading;
  
 void setup(void) {
   Serial.begin(9600);
-  for(int thisPin = 0; thisPin < 3; thisPin++){
+  for(int thisPin = 0; thisPin < 2; thisPin++){
    pinMode(ledAnalogOne[thisPin], OUTPUT);   //Set the three LED pins as outputs
   }
 }
  
 void loop(void) {
-  middleReading = singleReading(FLEXSENSORPIN2);
-  indexReading = singleReading(FLEXSENSORPIN3);
-  thumbReading = singleReading(FLEXSENSORPIN4);
+  middleReading = singleReading(FLEXINDEX);
+  indexReading = singleReading(FLEXTHUMB);
   
-  Serial.print("Single reading Middle "); 
-  Serial.println(middleReading);
-
   Serial.print("Single reading Index "); 
   Serial.println(indexReading);
 
