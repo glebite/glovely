@@ -24,14 +24,19 @@
 
 
 #define FLEXINDEX A2 
-#define FLEXTHUMB A3 
-#define BUTTON_FORWARD <TBD>
-#define BUTTON_BACKWARD <TBD>
+#define FLEXTHUMB A3
+#define FLEXSENSORPIN0 0
+#define BUTTON_FORWARD D0
+#define BUTTON_BACKWARD D0
+
+float singleReading(int);
 
 //defined variables for each sensor according to finger
 float indexReading;
 float thumbReading;
- 
+
+int ledAnalogOne[] = {5,6};
+
 void setup(void) {
   Serial.begin(9600);
   for(int thisPin = 0; thisPin < 2; thisPin++){
@@ -40,8 +45,8 @@ void setup(void) {
 }
  
 void loop(void) {
-  middleReading = singleReading(FLEXINDEX);
-  indexReading = singleReading(FLEXTHUMB);
+  indexReading = singleReading(FLEXINDEX);
+  thumbReading = singleReading(FLEXTHUMB);
   
   Serial.print("Single reading Index "); 
   Serial.println(indexReading);
