@@ -16,3 +16,6 @@ Yes!
 
 # located wearable material
 ![wearable materials](/images/wearableGear.jpg)
+
+# built my first ever flex sensor with Gorilla tape, conductive thread, and velostat!
+![first sensor](/images/firstvelostatflexsensor.jpg)
