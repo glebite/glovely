@@ -27,7 +27,7 @@
 #define FLEXTHUMB A3
 #define FLEXSENSORPIN0 0
 #define BUTTON_FORWARD D0
-#define BUTTON_BACKWARD D0
+#define BUTTON_BACKWARD D1
 
 float singleReading(int);
 

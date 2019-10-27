@@ -19,3 +19,7 @@ Yes!
 
 # built my first ever flex sensor with Gorilla tape, conductive thread, and velostat!
 ![first sensor](/images/firstvelostatflexsensor.jpg)
+
+# index finger - 60 mm x 10 mm
+# thumb - 70 mm x 10 mm
+
