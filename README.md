@@ -23,3 +23,10 @@ Yes!
 # index finger - 60 mm x 10 mm
 # thumb - 70 mm x 10 mm
 
+# 3D printed sensor mounts
+Essentially I'm hoping to use snaps to connect the flex sensor to the glove
+but the female connector (top) would be bumpy and warping the sensor.  I
+designed and 3D printed parts to fit the female top snap.  The sensor can
+then be glued to the top of the snaptops.
+
+![snap tops](/images/snap-mounts.jpg)
