@@ -39,6 +39,7 @@ int ledAnalogOne[] = {5,6};
 
 void setup(void) {
   Serial.begin(9600);
+	Serial.println("Configuring up output pins");
   for(int thisPin = 0; thisPin < 2; thisPin++){
    pinMode(ledAnalogOne[thisPin], OUTPUT);   //Set the three LED pins as outputs
   }
@@ -54,6 +55,17 @@ void loop(void) {
   Serial.print("Single reading Thumb "); 
   Serial.println(thumbReading);
 
+	if (indexReading > LASER_ON) {
+		// call laser_on function
+	} else {
+		// call laser_off function
+	}
+
+	if (thumbReading > THUMBS_UP) {
+		// happy face on
+	} else {
+		// happy face off
+	}
   delay(1000);
 }
 
