@@ -30,3 +30,10 @@ designed and 3D printed parts to fit the female top snap.  The sensor can
 then be glued to the top of the snaptops.
 
 ![snap tops](/images/snap-mounts.jpg)
+
+# button work
+Hardware is starting to come together.
+Ordered the dev board.
+Started to assemble the button board.
+
+![button board](/images/buttons-next-stage.jpg)
