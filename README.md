@@ -37,3 +37,9 @@ Ordered the dev board.
 Started to assemble the button board.
 
 ![button board](/images/buttons-next-stage.jpg)
+
+# case and components added  
+3d printed the case and the tolerances are too tight!!!  
+again, I'm learning that I need to design my own parts and not trust ones that I find online  
+![case and parts](images/case-and-parts.jpg)  
+
