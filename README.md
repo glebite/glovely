@@ -43,3 +43,18 @@ Started to assemble the button board.
 again, I'm learning that I need to design my own parts and not trust ones that I find online  
 ![case and parts](images/case-and-parts.jpg)  
 
+# dremel time tonight
+  4.921 mm (width of battery)  
+- 4.723 mm (width of case)  
+----------  
+  0.198 mm  
+
+  2.299 mm (width of feather)
+- 2.241 mm (width of case)
+----------
+  0.058 mm
+  
+I'll clamp the unit into my vise and be very very careful...  :)  
+(also use safety goggles!)  
+
+
