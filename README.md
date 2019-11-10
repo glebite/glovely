@@ -65,3 +65,7 @@ Yup - working thus far - need to do some more surgery.
 # fitting fine
 Ugly dremel hacks but the battery fits too now!  
 ![itfits](/images/itfits.jpg)  
+
+# now on glove
+Yes!  Yes!  Awesomeness!!!  This works!
+![glove](/images/glove-and-board.jpg)
