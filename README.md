@@ -61,3 +61,7 @@ I'll clamp the unit into my vise and be very very careful...  :)
 Yup - working thus far - need to do some more surgery.
 
 ![better fit](/images/dremelled-board-soldered-headers.jpg)
+
+# fitting fine
+Ugly dremel hacks but the battery fits too now!  
+![itfits](/images/itfits.jpg)  
