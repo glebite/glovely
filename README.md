@@ -37,3 +37,8 @@ Ordered the dev board.
 Started to assemble the button board.
 
 ![button board](/images/buttons-next-stage.jpg)
+
+# Dremel work is coming along okay - CPU board fits (also soldered headers)
+Yup - working thus far - need to do some more surgery.
+
+![better fit](/images/dremelled-board-soldered-headers.jpg)
