@@ -69,3 +69,7 @@ Ugly dremel hacks but the battery fits too now!
 # now on glove
 Yes!  Yes!  Awesomeness!!!  This works!
 ![glove](/images/glove-and-board.jpg)
+
+# power rail board soldered
+Yup!  Getting closer!  
+![glove and stuff](/images/ensemble-soon.jpg)  
