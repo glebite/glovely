@@ -72,4 +72,8 @@ Yes!  Yes!  Awesomeness!!!  This works!
 
 # power rail board soldered
 Yup!  Getting closer!  
-![glove and stuff](/images/ensemble-soon.jpg)  
+![glove and stuff](/images/ensemble-soon.jpg)
+
+# laser mounted to holder and on the glove
+It is now on - fits well and points nicely  
+![glove and laser](/images/laser-mounted.jpg)
