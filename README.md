@@ -77,3 +77,7 @@ Yup!  Getting closer!
 # laser mounted to holder and on the glove
 It is now on - fits well and points nicely  
 ![glove and laser](/images/laser-mounted.jpg)
+
+# new sensor design - tired.
+I will have more progress tomorrow after I get a good day!  
+![new sensor design](/images/new-flex-sensor.jpg)  
