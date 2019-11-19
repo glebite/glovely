@@ -80,4 +80,8 @@ It is now on - fits well and points nicely
 
 # new sensor design - tired.
 I will have more progress tomorrow after I get a good day!  
-![new sensor design](/images/new-flex-sensor.jpg)  
+![new sensor design](/images/new-flex-sensor.jpg)
+
+# using old sensor  
+I got the old sensor working, wired, and tested.  Built a new sensor interface board - mounted sensor mounts on the glove.  
+![new board](/images/flex-sensor-interface-board-flex-mounts.jpg)  
