@@ -84,4 +84,9 @@ I will have more progress tomorrow after I get a good day!
 
 # using old sensor  
 I got the old sensor working, wired, and tested.  Built a new sensor interface board - mounted sensor mounts on the glove.  
-![new board](/images/flex-sensor-interface-board-flex-mounts.jpg)  
+![new board](/images/flex-sensor-interface-board-flex-mounts.jpg)
+
+# flex sensor and laser together - mostly working...
+Yup - mostly working but coming along - now onto the buttons...  
+![laser mounted, etc...](/images/laser-mounted-mostly-working.jpg)
+
