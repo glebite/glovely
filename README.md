@@ -90,3 +90,6 @@ I got the old sensor working, wired, and tested.  Built a new sensor interface b
 Yup - mostly working but coming along - now onto the buttons...  
 ![laser mounted, etc...](/images/laser-mounted-mostly-working.jpg)
 
+# performed presentation without glovely... :(
+It is true - sad but true.  The presentation went well but could have been cooler with the glove.
+
