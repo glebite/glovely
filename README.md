@@ -93,3 +93,6 @@ Yup - mostly working but coming along - now onto the buttons...
 # performed presentation without glovely... :(
 It is true - sad but true.  The presentation went well but could have been cooler with the glove.
 
+# new button board
+Yup - back at it - soldered new button board and tested continuity
+![button board](/images/new_button_board.jpg)  
